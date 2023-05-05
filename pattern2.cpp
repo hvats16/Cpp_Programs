@@ -2,7 +2,7 @@
 using namespace std;
 int main(){
 	int n;
-	cin>>n;
+	cin>>n; //taking inputs for no.of lines
 	int i,j,k=1,l=1;
 	for(i=1;i<=n;i++){
 		for(j=i;j<=(n-1);j++){
