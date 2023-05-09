@@ -17,7 +17,7 @@ vector<int> incrementNumber(int n, vector<int > A){
     return A;
 }
 
-void hello(vector arr[]) {
+void hello(vector<int> arr) {
     for (auto it : arr) {
         it = it + 1;
     }
